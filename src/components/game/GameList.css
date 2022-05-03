@@ -1,0 +1,7 @@
+.game {
+    border: dotted black;
+    padding: 2rem;
+    width: 33%;
+    height: 70px;
+    text-align: center;
+}
